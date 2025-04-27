@@ -1,0 +1,7 @@
+1º Passo: Criar o código em C.
+
+2º Passo: Escrever o código "gcc *nome_programa*.c -o *nome_programa*.exe".
+
+3º Passo: Caso não retorne nenhuma mensagem e apareça um arquivo ".exe", quer dizer que deu certo.
+
+4º Passo: Para executar o código, basta escrever "*nome_programa*.exe", ou então ".\*nome_programa*.exe".
