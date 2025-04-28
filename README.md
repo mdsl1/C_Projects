@@ -39,13 +39,13 @@ Clone ou baixe o repositório e abra-o no Visual Studio Code (ou no editor de su
 
 #### 2. Compilar o projeto
 Abra o terminal no diretório do projeto e execute o comando:
-```gcc *nome_projeto*.c -o *nome_projeto*.exe```.  
-*Alterar "nome_projeto" para o nome do arquivo*  
+```gcc nome_projeto.c -o nome_projeto.exe```.  
+> Substitua ```nome_projeto.c``` pelo nome correto do arquivo que deseja rodar.
 Isso irá gerar um arquivo executável ".exe" na mesma pasta.
 
 #### 3. Executar o programa
 Após a compilação bem-sucedida, execute o programa com:
-```.\projeto```.
+```.\nome_projeto```.
 O programa será iniciado diretamente no terminal.
 
 ### 🔹 Utilizando os executáveis prontos
